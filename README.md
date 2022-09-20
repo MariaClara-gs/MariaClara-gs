@@ -1,17 +1,20 @@
-### Hi there 👋
-### loading...
+### Olá 👋
 
-<!--
-**MariaClara-gs/MariaClara-gs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma estudante iniciante na programação.
 
-Here are some ideas to get you started:
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **Maria Clara** {
+ val status = "Estou inciando na programação"
+ val objectives = "Obter conhecimentos de várias linguagens"
+ val acknowledgements = "Programação"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = "Developing..."
+ val wannalearn = listOf("Javascript", "HTML", "CSS", "Python")
+
+}
+```
