@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou uma estudante iniciante na programação.
+Sou uma estudante e iniciante na programação.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
