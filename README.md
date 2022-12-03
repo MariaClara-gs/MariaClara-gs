@@ -12,8 +12,8 @@ object **Maria Clara** {
  val objectives = "Obter conhecimentos de várias linguagens"
  val acknowledgements = "Programação"
  
- val primarySkillset = "Developing..."
- val languages = "Developing..."
+ val primarySkillset = "Basic HTML"
+ val languages = "HTML, ..."
  val wannalearn = listOf("Javascript", "HTML", "CSS", "Python")
 
 }
