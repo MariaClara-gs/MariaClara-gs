@@ -14,7 +14,7 @@ object **Maria Clara** {
  
  val primarySkillset = "Basic HTML"
  val languages = "HTML, ..."
- val wannalearn = listOf("Javascript", "HTML", "CSS", "Python")
+ val wannalearn = listOf("Javascript", "HTML", "CSS")
 
 }
 ```
