@@ -13,7 +13,7 @@ object **Maria Clara** {
  val acknowledgements = "Programação"
  
  val primarySkillset = "Basic HTML"
- val languages = "HTML, ..."
+ val languages = "In progress ..."
  val wannalearn = listOf("Javascript", "HTML", "CSS")
 
 }
