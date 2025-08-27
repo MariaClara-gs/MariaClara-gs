@@ -10,9 +10,9 @@ Cursando Ciência da Computação na PUC - Minas.
 object **Maria Clara** {
  val status = "Desenvolvendo habilidades de programação e conhecimento..."
  val objectives = "Se tornar uma desenvolvedora"
- //val acknowledgements = ""
  
- //val primarySkillset = "..."
+ 
+ 
  val languages = "HTML, CSS, JavaScript, C, C++, Java"
  val wannalearn = listOf("Flutter, C#, Python, ...")
 
