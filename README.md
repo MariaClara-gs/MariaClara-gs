@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou uma estudante e iniciante na programação.
+Cursando Ciência da Computação na PUC - Minas.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -8,13 +8,13 @@ Sou uma estudante e iniciante na programação.
 
 ```kotlin
 object **Maria Clara** {
- val status = "Estou inciando na programação"
- val objectives = "Obter conhecimentos de várias linguagens"
- val acknowledgements = "Programação"
+ val status = "Desenvolvendo habilidades de programação e conhecimento..."
+ val objectives = "Se tornar uma desenvolvedora"
+ //val acknowledgements = ""
  
- val primarySkillset = "Basic HTML"
- val languages = "In progress ..."
- val wannalearn = listOf("Javascript", "HTML", "CSS")
+ //val primarySkillset = "..."
+ val languages = "HTML, CSS, JavaScript, C, C++, Java"
+ val wannalearn = listOf("Flutter, C#, Python, ...")
 
 }
 ```
